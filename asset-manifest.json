@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CoupoanPro/static/css/main.c0f9a56a.css",
+    "main.js": "/CoupoanPro/static/js/main.694c2750.js",
+    "static/js/787.604f85c1.chunk.js": "/CoupoanPro/static/js/787.604f85c1.chunk.js",
+    "static/media/Hero_Image.jpg": "/CoupoanPro/static/media/Hero_Image.482f33f2615ecba89f77.jpg",
+    "static/media/backGround_coppon.jpg": "/CoupoanPro/static/media/backGround_coppon.f3bbc6398e66ed1046c8.jpg",
+    "static/media/backGround.jpg": "/CoupoanPro/static/media/backGround.a17ea5c90a81f5f13cb9.jpg",
+    "index.html": "/CoupoanPro/index.html",
+    "main.c0f9a56a.css.map": "/CoupoanPro/static/css/main.c0f9a56a.css.map",
+    "main.694c2750.js.map": "/CoupoanPro/static/js/main.694c2750.js.map",
+    "787.604f85c1.chunk.js.map": "/CoupoanPro/static/js/787.604f85c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0f9a56a.css",
+    "static/js/main.694c2750.js"
+  ]
+}
