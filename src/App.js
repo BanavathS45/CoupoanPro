@@ -52,7 +52,7 @@ function App() {
           element={<GardeningExperience />}
         />
         {/* --------------Single Page------------------ */}
-        <Route path="/store/astarinchimes" element={<Astarinchimes />} />
+        <Route path="astarinchimes" element={<Astarinchimes />} />
         <Route path="/store/glamermaid" element={<Glamermaid />} />
         <Route path="/store/joybos" element={<Joybos />} />
         <Route path="/store/boderry" element={<Boderry />} />
