@@ -3,7 +3,7 @@ export const Allstore = [
     id: 1,
     image: "Images/Home/astarinchimes.png",
     title: "Astarin Chimes",
-    url: "/store/astarinchimes ",
+    url: "/astarinchimes ",
   },
   {
     id: 2,
