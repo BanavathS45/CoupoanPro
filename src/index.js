@@ -15,7 +15,7 @@ const container = document.getElementById("root");
 const root = createRoot(container);
 root.render(
   <AnimatePresence>
-    <BrowserRouter basename="">
+    <BrowserRouter basename="CoupoanPro">
       <App />
 
       {/* <Blog/> */}
